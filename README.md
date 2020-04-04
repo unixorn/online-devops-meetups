@@ -16,6 +16,7 @@ I'm organizing these by time zone, but am open to better suggestions.
   - [Ops Virtual Happy Hour](#ops-virtual-happy-hour)
 - [Europe/Africa time zone events](#europeafrica-time-zone-events)
   - [Open Tech Will Save Us](#open-tech-will-save-us)
+  - [drunkops-online](#drunkops-online)
 - [Asia time zone events](#asia-time-zone-events)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
