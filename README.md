@@ -9,12 +9,14 @@ I'm organizing these by time zone, but am open to better suggestions.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [online-devops-meetups](#online-devops-meetups)
-  - [US time zone events](#us-time-zone-events)
-    - [CoffeeOps online](#coffeeops-online)
-    - [Ops Virtual Happy Hour](#ops-virtual-happy-hour)
-  - [Europe/Africa time zone events](#europeafrica-time-zone-events)
-  - [Asia time zone events](#asia-time-zone-events)
+- [US time zone events](#us-time-zone-events)
+  - [CoffeeOps online](#coffeeops-online)
+    - [Denver](#denver)
+    - [Seattle](#seattle)
+  - [Ops Virtual Happy Hour](#ops-virtual-happy-hour)
+- [Europe/Africa time zone events](#europeafrica-time-zone-events)
+  - [Open Tech Will Save Us](#open-tech-will-save-us)
+- [Asia time zone events](#asia-time-zone-events)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -22,7 +24,11 @@ I'm organizing these by time zone, but am open to better suggestions.
 
 ### CoffeeOps online
 
+#### Denver
+
 This takes place on Thursday mornings at 8am MDT (1400 in the one true time zone, UTC). Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com). Not posting meet links publicly because of drivebys.
+
+#### Seattle
 
 Seattle CoffeeOps takes place every other Friday mornings at 8am PDT (1500 in the one true time zone, UTC). Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com). Not posting meet links publicly because of drivebys.
 
