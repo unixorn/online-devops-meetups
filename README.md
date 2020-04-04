@@ -46,10 +46,11 @@ Open Tech Will Save Us is a virtual meetup, taking the form of a monthly live vi
 We discuss issues relating to technology, especially the importance of Open, Interoperable standards, and how they can enable decentralised tech to keep our data private while still enabling communication.
 
 More details for specific dates at [https://www.meetup.com/Open-Tech-Will-Save-Us](https://www.meetup.com/Open-Tech-Will-Save-Us)
+
 ### drunkops-online
 
 drunkops-online is a newly established virtual meetup that occurs bi-weekly at 7:30PM (GMT+2).
-Furhter information is posted in `#drunkops` on the [hangops slack](https://hangops.slack.com/). It's a free-for-all discussion about technology, life and your favourite beverage.
 
+Further information is posted in `#drunkops` on the [hangops slack](https://hangops.slack.com/). It's a free-for-all discussion about technology, life and your favourite beverage.
 
 ## Asia time zone events
