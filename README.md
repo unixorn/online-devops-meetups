@@ -27,15 +27,21 @@ I'm organizing these by time zone, but am open to better suggestions.
 
 #### Denver
 
-This takes place on Thursday mornings at 8am MDT (1400 in the one true time zone, UTC). Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com). Not posting meet links publicly because of drivebys.
+This takes place on Thursday mornings at 8am MDT (1400 in the one true time zone, UTC). Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com). This is an informal free-for-all about technology, coping with suddenly being remote, and at least partially an excuse to be social.
+
+Not posting meet links publicly because of drivebys.
 
 #### Seattle
 
-Seattle CoffeeOps takes place every other Friday mornings at 8am PDT (1500 in the one true time zone, UTC). Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com). Not posting meet links publicly because of drivebys.
+Seattle CoffeeOps takes place every other Friday morning at 8am PDT (1500 in the one true time zone, UTC). Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com).
+
+Not posting meet links publicly because of drivebys.
 
 ### Ops Virtual Happy Hour
 
-This takes place on Monday evenings from 1730 MDT to 2000 MDT (2330-0300 UTC). Details are also posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com). Not posting meet links publicly because of drivebys.
+This takes place on Monday evenings from 1730 MDT to 2000 MDT (2330-0300 UTC). Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com).
+
+Not posting meet links publicly because of drivebys.
 
 ## Europe/Africa time zone events
 
