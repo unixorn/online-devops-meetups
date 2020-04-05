@@ -41,7 +41,7 @@ Not posting meet links publicly because of drivebys.
 #### Santa Clara
 
 Santa Clara CoffeeOps takes place every Wednesday moring at 8am PDT (1500 in the one true time zone, UTC). Details are posted in 
-`#southbay` in the [coffeeops slack](https://coffeeops.slack.com). This meetup changes between formal with a [Lean Coffee](https://leancoffee.org/), and free-for-all, covering such topics as books, planning, life, kids, technology, and anything else that comes up. 
+`#southbay` in the [coffeeops slack](https://coffeeops.slack.com). This meetup changes between formal with a [Lean Coffee](https://leancoffee.org/) format, and free-for-all, covering such topics as books, planning, life, kids, technology, and anything else that comes up. 
 
 Not posting meet links publicly because of drivebys.
 
