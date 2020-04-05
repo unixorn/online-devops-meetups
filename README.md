@@ -38,6 +38,13 @@ Seattle CoffeeOps takes place every other Friday morning at 8am PDT (1500 in the
 
 Not posting meet links publicly because of drivebys.
 
+#### Santa Clara
+
+Santa Clara CoffeeOps takes place every Wednesday moring at 8am PDT (1500 in the one true time zone, UTC). Details are posted in 
+`#southbay` in the [coffeeops slack](https://coffeeops.slack.com). This meetup changes between formal with a [Lean Coffee](https://leancoffee.org/) format, and free-for-all, covering such topics as books, planning, life, kids, technology, and anything else that comes up. 
+
+Not posting meet links publicly because of drivebys.
+
 ### Ops Virtual Happy Hour
 
 This takes place on Monday evenings from 1730 MDT to 2000 MDT (2330-0300 UTC). Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com).
