@@ -13,6 +13,7 @@ I'm organizing these by time zone, but am open to better suggestions.
     - [CoffeeOps online](#coffeeops-online)
       - [Denver](#denver)
       - [Seattle](#seattle)
+      - [Santa Clara](#santa-clara)
     - [Ops Virtual Happy Hour](#ops-virtual-happy-hour)
   - [Europe/Africa time zone events](#europeafrica-time-zone-events)
     - [Open Tech Will Save Us](#open-tech-will-save-us)
