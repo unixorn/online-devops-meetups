@@ -9,15 +9,16 @@ I'm organizing these by time zone, but am open to better suggestions.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [US time zone events](#us-time-zone-events)
-  - [CoffeeOps online](#coffeeops-online)
-    - [Denver](#denver)
-    - [Seattle](#seattle)
-  - [Ops Virtual Happy Hour](#ops-virtual-happy-hour)
-- [Europe/Africa time zone events](#europeafrica-time-zone-events)
-  - [Open Tech Will Save Us](#open-tech-will-save-us)
-  - [drunkops-online](#drunkops-online)
-- [Asia time zone events](#asia-time-zone-events)
+  - [US time zone events](#us-time-zone-events)
+    - [CoffeeOps online](#coffeeops-online)
+      - [Denver](#denver)
+      - [Seattle](#seattle)
+    - [Ops Virtual Happy Hour](#ops-virtual-happy-hour)
+  - [Europe/Africa time zone events](#europeafrica-time-zone-events)
+    - [Open Tech Will Save Us](#open-tech-will-save-us)
+    - [drunkops-online](#drunkops-online)
+  - [Asia time zone events](#asia-time-zone-events)
+- [Organizer tips](#organizer-tips)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -60,3 +61,7 @@ drunkops-online is a newly established virtual meetup that occurs bi-weekly at 7
 Further information is posted in `#drunkops` on the [hangops slack](https://hangops.slack.com/). It's a free-for-all discussion about technology, life and your favourite beverage.
 
 ## Asia time zone events
+
+# Organizer tips
+
+The Kubernetes project has a good set of [organizer guidelines](https://github.com/kubernetes/community/blob/master/communication/zoom-guidelines.md). They're using Zoom, but there's a lot of good generic information there as well.
