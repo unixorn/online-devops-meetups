@@ -55,7 +55,7 @@ Not posting meet links publicly because of drivebys.
 
 ### Ops Virtual Happy Hour
 
-This takes place on Monday evenings from 1800 MDT to 2030 MDT (0000-0330 UTC).
+This takes place on Monday evenings from 1900 MDT to 2030 MDT (0100-0230 UTC).
 
 This is a free-form meeting and focused more on being social than discussing strictly technical topics. Details are posted in `#coffeeops-online` on the [hangops slack](https://hangops.slack.com/) and in `#remote` in the [coffeeops slack](https://coffeeops.slack.com).
 
